@@ -1,0 +1,29 @@
+<svg id="logo.svg" xmlns="http://www.w3.org/2000/svg" width="154" height="76" viewBox="0 0 154 76">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-opacity: 0;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke: #e5e5e5;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        stroke: #97d1eb;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+        font-family: Raleway;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <rect id="Box" class="cls-1" x="16" y="3" width="67" height="70"/>
+  <rect id="Box-2" data-name="Box" class="cls-2" x="3" y="22" width="32" height="32"/>
+  <text id="Selene." class="cls-3" x="46.484" y="48.898">Selene.</text>
+</svg>
